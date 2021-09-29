@@ -8,7 +8,7 @@
 - 📫 You can reach me on vishalkalola196@icloud.com
 
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkalola1&show_icons=true&hide_border=true)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkalola1&show_icons=true&hide_border=true&theme=dark)
 
 <!--START_SECTION:waka-->
 ![Profile Views](https://img.shields.io/badge/Profile%20View-80-green)
