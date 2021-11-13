@@ -3,7 +3,7 @@
 - 👋 Hi, I’m vishal kalola
 - 👀 I’m interested in fullstack development.
 - 👯 I’m looking to collaborate on clappr-Analytics-plugin
-- 🌱 I’m currently learning swiftUI, Jetpack, React.js, python, Node.js .
+- 🌱 I’m currently working swiftUI, Jetpack, React.js, python, Node.js .
 - 💞️ I’m looking to collaborate on open source code that help community. 
 - 📫 You can reach me on vishalkalola196@icloud.com
 
